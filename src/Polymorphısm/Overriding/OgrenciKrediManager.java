@@ -8,14 +8,10 @@ public class OgrenciKrediManager extends BaseKrediManager{
         return tutar*1.10;
     }
 
-//    @Override
-//    public void log(String message){
-//        System.out.println("Ogrenci Kredi Manager: ");
-//    }
 
 
     @Override
     public String toString() {
-        return "OgrenciKrediManager Hesaplandi";
+        return "Ogrenci Kredisi Hesaplandi";
     }
 }

@@ -5,9 +5,7 @@ public class BaseKrediManager {
         return tutar * 1.18;
     }
 
-    public void log(String message){
-        System.out.println("Base Kredi Manager: "+message);
-    }
+
 
     @Override
     public String toString() {
