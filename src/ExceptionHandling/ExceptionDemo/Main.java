@@ -15,7 +15,7 @@ public class Main {
             System.out.println("Loglandi: "+exception);
         }
         finally {
-            System.out.println("Ben her türlü çalışırım..");
+            System.out.println("Ben her türlü çalışırım...");
         }
 
     }
